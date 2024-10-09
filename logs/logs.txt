@@ -1,0 +1,3 @@
+a new movie document with the name Bound has been created by Mohamed Saad
+a new movie document with the name undefined has been created by Mohamed Saad
+a new movie document with the name hello has been created by Mohamed Saad
